@@ -21,7 +21,7 @@ Languages: English (fluent), German (fluent/native)
 * 04/2017 - 09/2017: Undergraduate Teaching Assistant for "Datenstrukturen und Algorithmen"
 * 10/2017 - 09/2018: Undergraduate Teaching Assistant for "Praktikum Systemprogrammierung"
 
-#### Karlsruhe Institute of Technology (System Analyst, 2011/06 - 2015/07) 
+#### Karlsruhe Institute of Technology
 
 * 10/2019 - 02/2020: Undergraduate Teaching Assistant for "Grundbegriffe der Informatik"
 * 04/2020 - 08/2020: Undergraduate Teaching Assistant for "Algorithmen I"
