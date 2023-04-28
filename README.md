@@ -1,5 +1,7 @@
 My resume, created with [casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv).
 
+https://raw.githack.com/fr2501/casual-markdown-cv/main/resume.html
+
 
 ## Credit
 
